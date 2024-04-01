@@ -1,5 +1,5 @@
 class Board:
-
+    """Test documentation for Board class"""
     def __init__(self):
         self.cell1 = Cell(11, 'n', 11, '')
         self.cell2 = Cell(12, 'n', 12, '')
